@@ -1,5 +1,5 @@
 
-# Projeto em construção
+# LOTR site em desenvolvimento
 ### Usando a api https://the-one-api.dev
 
 Por ser fã de Senhor dos Anéis estou desenvolvendo uma espécie de Wiki com os personagens principais do filme Senhor Dos Anéis.
