@@ -5,14 +5,9 @@ import './content.css'
 
 const baseURL = 'https://the-one-api.dev/v2'
 
-const API_KEY = "your_api_key"
+const API_KEY = "Bearer your_api_key"
 
 const Content = () => {
-
-    const [name, setName] = useState('');
-
-    const [foundName, setFoundName] = useState('');
-
 
     const [elements, setElements] = useState([])
 
